@@ -28,7 +28,7 @@ This project is attainable within 6 weeks because it's simply a build up and con
 3. [Finding most volatile stocks](https://towardsdatascience.com/find-the-highest-moving-hidden-stocks-of-the-day-with-python-aab0d7bfe5ff)
 
 ## Research Summary
-
+After extensive research, there appears to be a correlation with using reinforcement learning for handling probabilistic outcomes. Reinforcement learning heavily relies on a Markov Decision Process that helps determine that actions, states, and rewards. This methodology works with both a discrete and continuous time series. Applying reinforcement learning to stock market trend predictions is relevant because it can handle different variables that the stock market entails in a timely manner through its components. In addition to regular reinforcement learning, applying technical indicators and other information of stock data like news and volitility. Other statistical techniques have proven to be proficient in identifying patterns in that which seemed random like the stock market like geometric brownian motion. Brownian Motion was used by Einstein to support his thesis on subatomic particle in pollen moving around in a pattern, concluding that there's an acutal pattern within the randomness and that everything no matter how random has an underlying pattern with respect to its environment. Applying statistical models like GBM, MACD, RSI, and Bollingerbands can help the reinforcement agent to optimize its rewards which is maximizing profit from trades.
 
 ## Research Papers
 
