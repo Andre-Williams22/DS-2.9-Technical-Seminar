@@ -21,6 +21,42 @@ The DRL Agent will be a culmination of several reinforcement learning strategies
 ## Project Scope
 This project is attainable within 6 weeks because it's simply a build up and continuation of other smaller projects I've worked on in the past. The learning curve, compute resources, and storage capacity has all been accounted for and will be a continual process as the project scales. 6 weeks is enough time in order to develop an MVP with an end-to-end pipeline.
 
+
+## Data 
+1. [Alpaca Real-Time Market Data](https://alpaca.markets/docs/api-documentation/api-v2/market-data/)
+2. [Alpha Vantage Stock Data](https://www.alphavantage.co/documentation/)
+3. [Finding most volatile stocks](https://towardsdatascience.com/find-the-highest-moving-hidden-stocks-of-the-day-with-python-aab0d7bfe5ff)
+
+## Research Summary
+
+
+## Research Papers
+
+1. [Deep Reinforcement Learning (Automated Stock Trading)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)
+2. [Graph Convolutional Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520312342?dgcid=rss_sd_all)
+3. [Multiple Stock Trading](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-multiple-stock-trading-7b00763b7530)
+4. [Parallel Stochastic RL Learning Environments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)
+5. [Machine Learning Pipeline](https://ai.plainenglish.io/advances-in-financial-machine-learning-for-dummies-part-0-c08e169335f)
+6. [Geometric Brownian Motion](https://towardsdatascience.com/simulating-stock-prices-in-python-using-geometric-brownian-motion-8dfd6e8c6b18)
+7. [Monte Carlo Method Stock Simulator with GBM and Bootstrap Sampling](https://towardsdatascience.com/simulating-stock-prices-in-python-using-geometric-brownian-motion-8dfd6e8c6b18)
+
+ 
+
+## Project Goals / Implementation Plan
+1. Find time series data for multiple stocks 
+2. Scan stock markets to find most volatile stocks 
+3. Send that data to a database/spreadsheet 
+4. Grab that data  
+5. Build a Reinforcement Learning Algorithm
+6. Train/Test RL Agent on historical data
+7. Connect algorithm with real-time data
+8. Setup algorithm with a brokerage to take real positions in the market
+9. Connect algorithm to a scheduler in GCP
+10. Have the Algorithm trade everyday at Market Open and Close
+11. Have algorithm send emails, informing me about it's positions
+12. Make Money
+
+
 ## 🚀 Getting Started
 
 ## Prerequisites
@@ -61,21 +97,6 @@ python3 trade.py
 # Only train the model
 python3 run_DRL.py
 ```
-
-## Project Goals / Implementation Plan
-1. Find time series data for multiple stocks 
-2. Scan stock markets to find most volatile stocks 
-3. Send that data to a database/spreadsheet 
-4. Grab that data  
-5. Build a Reinforcement Learning Algorithm
-6. Train/Test RL Agent on historical data
-7. Connect algorithm with real-time data
-8. Setup algorithm with a brokerage to take real positions in the market
-9. Connect algorithm to a scheduler in GCP
-10. Have the Algorithm trade everyday at Market Open and Close
-11. Have algorithm send emails, informing me about it's positions
-12. Make Money
-
 
 ## 📝 License
 
