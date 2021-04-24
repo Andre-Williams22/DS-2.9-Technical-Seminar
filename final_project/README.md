@@ -26,13 +26,8 @@ This project is attainable within 6 weeks because it's simply a build up and con
 2. [Alpha Vantage Stock Data](https://www.alphavantage.co/documentation/)
 3. [Finding most volatile stocks](https://towardsdatascience.com/find-the-highest-moving-hidden-stocks-of-the-day-with-python-aab0d7bfe5ff)
 
-## Research Summary
-After extensive research, there appears to be a correlation with using reinforcement learning for handling probabilistic outcomes. Reinforcement learning heavily relies on a Markov Decision Process that helps determine that actions, states, and rewards. This methodology works with both a discrete and continuous time series. Applying reinforcement learning to stock market trend predictions is relevant because it can handle different variables that the stock market entails in a timely manner through its components. In addition to regular reinforcement learning, applying technical indicators and other information of stock data like news and volitility. Other statistical techniques have proven to be proficient in identifying patterns in that which seemed random like the stock market like geometric brownian motion. Brownian Motion was used by Einstein to support his thesis on subatomic particle in pollen moving around in a pattern, concluding that there's an acutal pattern within the randomness and that everything no matter how random has an underlying pattern with respect to its environment. Applying statistical models like GBM, MACD, RSI, and Bollingerbands can help the reinforcement agent to optimize its rewards which is maximizing profit from trades.
 
-This project is simply an intelligent system that can buy and sell stocks using a predefined trading strategy. Once the script is called it will programmatically connect to a trading platform via an API to get access to real-time data. Then the algorithm will buy and sell as well as implement a stop loss. All of this will be done in a fixed amount of time that will end up being how long the script runs. I should also be able to log in to the brokers’ interface and view the algorithm take positions in the market in real-time.
-
-
-## Research Papers
+## Research Papers Summary
 
 1. [Deep Reinforcement Learning (Automated Stock Trading)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)
 2. [Graph Convolutional Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0020025520312342?dgcid=rss_sd_all)
@@ -42,7 +37,10 @@ This project is simply an intelligent system that can buy and sell stocks using 
 6. [Geometric Brownian Motion](https://towardsdatascience.com/simulating-stock-prices-in-python-using-geometric-brownian-motion-8dfd6e8c6b18)
 7. [Monte Carlo Method Stock Simulator with GBM and Bootstrap Sampling](https://towardsdatascience.com/simulating-stock-prices-in-python-using-geometric-brownian-motion-8dfd6e8c6b18)
 
- 
+After extensive research, there appears to be a correlation with using reinforcement learning for handling probabilistic outcomes. Reinforcement learning heavily relies on a Markov Decision Process that helps determine that actions, states, and rewards. This methodology works with both a discrete and continuous time series. Applying reinforcement learning to stock market trend predictions is relevant because it can handle different variables that the stock market entails in a timely manner through its components. In addition to regular reinforcement learning, applying technical indicators and other information of stock data like news and volitility. Other statistical techniques have proven to be proficient in identifying patterns in that which seemed random like the stock market like geometric brownian motion. Brownian Motion was used by Einstein to support his thesis on subatomic particle in pollen moving around in a pattern, concluding that there's an acutal pattern within the randomness and that everything no matter how random has an underlying pattern with respect to its environment. Applying statistical models like GBM, MACD, RSI, and Bollingerbands can help the reinforcement agent to optimize its rewards which is maximizing profit from trades.
+
+This project is simply an intelligent system that can buy and sell stocks using a predefined trading strategy. Once the script is called it will programmatically connect to a trading platform via an API to get access to real-time data. Then the algorithm will buy and sell as well as implement a stop loss. All of this will be done in a fixed amount of time that will end up being how long the script runs. I should also be able to log in to the brokers’ interface and view the algorithm take positions in the market in real-time.
+
 
 ## Project Goals / Implementation Plan
 1. Find time series data for multiple stocks 
@@ -119,11 +117,5 @@ Anyone is welcome to contribute!
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Andre-Williams22"><br /><sub><b>Andre Williams</b></sub></a><br /><a href="https://github.com/Andre-Williams22/msconsole/commits?author=Andre-Williams22" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/liyaSileshi"><br /><sub><b>Liya Tilahun</b></sub></a><br /><a title="Code">👩🏽‍💻</a></td>
-  </tr>
-    <tr>
-    <td align="center"><a href="#"><br /><sub><b>Jerome Schmidt</b></sub></a><br /><a title="Code">💻</a></td>
   </tr>
 </table>
