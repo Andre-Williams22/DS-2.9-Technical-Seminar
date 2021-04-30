@@ -147,7 +147,6 @@ def trade(tickers):
 
 if __name__ == '__main__':
     
-    
     aapl_asset = api.get_asset('AAPL')
     if aapl_asset.tradable:
         print('We can trade AAPL.')
