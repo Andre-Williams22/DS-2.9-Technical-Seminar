@@ -147,9 +147,10 @@ def trade(tickers):
 
 if __name__ == '__main__':
     
-    aapl_asset = api.get_asset('AAPL')
-    if aapl_asset.tradable:
-        print('We can trade AAPL.')
+    # check if an asset is tradable
+    # aapl_asset = api.get_asset('AAPL')
+    # if aapl_asset.tradable:
+    #     print('We can trade AAPL.')
         
     tickers = grabs_daily_volatile_stocks()
         
