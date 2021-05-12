@@ -3,4 +3,4 @@ import numpy as np
 
 
 
-'''Script for ml classifiers '''
+'''Script for ml ensemble classifiers '''
