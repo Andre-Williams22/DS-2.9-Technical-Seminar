@@ -21,6 +21,9 @@ The DRL Agent will be a culmination of several reinforcement learning strategies
 ## Project Scope
 This project is attainable within 6 weeks because it's simply a build up and continuation of other smaller projects I've worked on in the past. The learning curve, compute resources, and storage capacity has all been accounted for and will be a continual process as the project scales. 6 weeks is enough time in order to develop an MVP with an end-to-end pipeline.
 
+## MVP 
+A working and automated Reinforcement Learning pipeline that encorporates data preprocessing, data analysis, data manipulation, and asset management. 
+
 ## Data 
 1. [Alpaca Real-Time Market Data](https://alpaca.markets/docs/api-documentation/api-v2/market-data/)
 2. [Alpha Vantage Stock Data](https://www.alphavantage.co/documentation/)
