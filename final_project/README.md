@@ -114,7 +114,6 @@ python3 trade.py
 |  Milestone #6 | Create an ensemble of models that are independent of each other to make a prediction | |
 
 
-
 ## 📝 License
 
 By contributing, you agree that your contributions will be licensed under its MIT License.
@@ -129,11 +128,7 @@ In short, when you submit code changes, your submissions are understood to be un
 4. [Monte Carlo Method Stock Simulator with GBM and Bootstrap Sampling](https://towardsdatascience.com/simulating-stock-prices-in-python-using-geometric-brownian-motion-8dfd6e8c6b18)
 
 
-
-
 ## Contributors
-
-Anyone is welcome to contribute!
 
 <table>
   <tr>
