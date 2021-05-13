@@ -61,6 +61,8 @@ This project is simply an intelligent system that can buy and sell stocks using 
 
 ## Prerequisites
 * python3.7
+* pip 
+
 
 ## 💻 Local Development
 
@@ -91,11 +93,11 @@ cd trading_agent
 ```
 ```bash
 # run the program
-python3 trade.py
+python3 run_DRL.py
 ```
 ```bash
 # Only train the model
-python3 run_DRL.py
+python3 trade.py
 ```
 
 ## 📝 License
