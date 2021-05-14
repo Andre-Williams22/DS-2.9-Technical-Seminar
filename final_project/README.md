@@ -1,5 +1,5 @@
 <center>
-<h1>Reinforcement Learning Trading Agent </h1>
+<h1> Reinforcement Learning Trading Agent </h1>
 </center>
 <br>
 <br>
