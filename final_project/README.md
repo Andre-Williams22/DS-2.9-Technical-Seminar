@@ -1,8 +1,6 @@
-<p align="center">
-
+<center>
 <h1>Reinforcement Learning Trading Agent </h1>
-
-</p>
+</center>
 <br>
 <br>
 A tool to automate trading and investing.
