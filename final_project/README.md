@@ -1,18 +1,20 @@
 <p align="center">
+
 <h1>Reinforcement Learning Trading Agent </h1>
+
+</p>
 <br>
 <br>
 A tool to automate trading and investing.
 
 Built by: Andre Williams
 
-[Presentation]()
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-</p>
+</p> -->
 <br>
 
 ## Project Description
