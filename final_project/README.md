@@ -1,6 +1,5 @@
-<center>
-<h1> Reinforcement Learning Trading Agent </h1>
-</center>
+ <h1 align="center">Reinforcement Learning Trading Agent </h1>
+
 <br>
 <br>
 A tool to automate trading and investing.
