@@ -92,7 +92,7 @@ cd trading_agent
 ```
 ```bash
 # run the program
-Open the Voting ensmble jupyter notebook
+Open the voting ensmble jupyter notebook
 ```
 <!-- ```bash
 # Only train the model
