@@ -38,7 +38,8 @@ Thumbs.db
 
 node_modules/
 package-lock.json
-
+final_project/trading_agent/saved_model/
+final_project/trading_agent/saved_model
 final_project/trading_agent/account.json
 final_project/trading_agent/creds.json
 final_project/preprocessing/get_data.py

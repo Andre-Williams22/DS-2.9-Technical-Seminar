@@ -7,11 +7,6 @@ A tool to automate trading and investing.
 Built by: Andre Williams
 
 </p>
-<!-- <p align="center">
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p> -->
 <br>
 
 ## Project Description
@@ -91,14 +86,13 @@ source venv/bin/activate
 # Install the requirements
 pip3 install -r requirements.txt
 ```
-
 ```bash
 # cd into the program locally
 cd trading_agent
 ```
 ```bash
 # run the program
-python3 run_DRL.py
+Open the Voting ensmble
 ```
 ```bash
 # Only train the model
