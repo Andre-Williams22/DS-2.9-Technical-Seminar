@@ -92,12 +92,12 @@ cd trading_agent
 ```
 ```bash
 # run the program
-Open the Voting ensmble
+Open the Voting ensmble jupyter notebook
 ```
-```bash
+<!-- ```bash
 # Only train the model
 python3 trade.py
-```
+``` -->
 
 
 ## Project Plan
